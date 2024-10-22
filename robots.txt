@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://zentetram.github.io/zentetram.txt.gz
+Sitemap: https://zentetram.github.io/app/zentetram.txt.gz
+Sitemap: https://zentetram.github.io/assets/zentetram.txt.gz
+Sitemap: https://zentetram.github.io/css/zentetram.txt.gz
+Sitemap: https://zentetram.github.io/includes/zentetram.txt.gz
+Sitemap: https://zentetram.github.io/item/zentetram.txt.gz
+Sitemap: https://zentetram.github.io/src/zentetram.txt.gz
